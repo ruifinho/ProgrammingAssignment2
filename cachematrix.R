@@ -1,5 +1,5 @@
-## Put comments here that give an overall description of what your
-## functions do
+## The cachematrix module provides a set of functions to save the inverses of
+## matrices in cache in order to save computational time
 
 ## This function initializes cache and returns a cache matrix object
 ## that can cache its inverse
